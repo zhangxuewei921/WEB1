@@ -1,0 +1,92 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.header{
+	height: 173px;
+	background-color: #eeeeef;
+}
+.logo{
+	padding-top:30px; 
+	text-align:center;
+	height: 95px;
+}
+.nav{
+	width: 725px;
+	height: 45px;
+	background-color: #fff;
+	margin: 0 auto;
+	border-radius: 23px;  
+}
+.nav li{
+	float: left;
+	height: 45px;
+	padding: 0 30px;
+	line-height: 45px;
+	background: url(../image/line.png) no-repeat right center;
+}
+.nav li a{
+	display: block;
+	height:42px;
+	border-bottom: 3px solid  #1e50ae ;
+	font-family: ‘微软雅黑’； 
+}
+.nav li:last-child{
+	background: none;
+}
+.text{
+	padding-top:30px;
+	text-align: center;
+}
+
+.abc li p{
+	font-size: 14px;
+	font-family:'微软雅黑' ;
+	color: #CBCBCB; 
+    line-height: 30px;
+}
+.tupian{
+	background: url(../image/dade.png) no-repeat right center;
+	margin-top:62px;
+	width: 1560px; 
+	height:710px;
+}
+.asd{
+	font-size: 17px;
+	padding-top: 606px;
+	text-align:center; 
+	font-family: ‘微软雅黑’；
+}
+.zuixin{
+	background: url(../image/zuixin.png) no-repeat right center;
+	width: 1560px; 
+	height:908px;
+}
+.zi{
+	font-size: 34px;
+	padding-top: 54px;
+	text-align:center; 
+	font-family: ‘微软雅黑’；
+}
+.zuihou{
+	background: url(../image/dibu.png) no-repeat right center;
+	width: 1560px; 
+	height:386px;
+}
+.q1{
+	color: #fff;
+	font-size: 13px;
+
+}
+.q2{
+	margin-top: 26px;
+}
+.q3{
+	margin-top: 13px;
+}
